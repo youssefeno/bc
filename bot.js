@@ -39,3 +39,4 @@ if(ra3d.content.startsWith(prefix + 'cc')) {
               }
             }
        });
+client.login(process.env.BOT_TOKEN);
